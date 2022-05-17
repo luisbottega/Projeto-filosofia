@@ -1,1 +1,1 @@
-# Projeto-filosofia
+# Projeto-pensamento computacional
